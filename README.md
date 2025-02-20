@@ -13,6 +13,7 @@
 + Run MySQL as Admin
 + Create New database with the name "placement"
 + Import database from "PMS-Master\sql\placement.sql"
++ Run "http://localhost/PMS-Master/" in your browser
 
 ***
 ### Admin Login
